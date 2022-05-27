@@ -16,6 +16,18 @@ const productData = [
         name: 'chilling mood',
         image: 'img3.jpg',
         des: 'libero soluta laboriosam adipisci optio culpa! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem possimus dolore illum, eveniet voluptatem '
+    },
+    {
+        index: '04',
+        name: 'creation',
+        image: 'img4.png',
+        des: 'libero soluta laboriosam adipisci optio culpa! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem possimus dolore illum, eveniet voluptatem '
+    },
+    {
+        index: '05',
+        name: 'modern style',
+        image: 'img5.jpg',
+        des: 'libero soluta laboriosam adipisci optio culpa! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolorem possimus dolore illum, eveniet voluptatem '
     }
 ]
 
